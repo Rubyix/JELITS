@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "686742309349",
+    "firebase_url": "https://jelits-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "jelits",
+    "storage_bucket": "jelits.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686742309349:android:bf79191629675ffa3cc70c",
+        "android_client_info": {
+          "package_name": "com.example.jelits"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_0hWT33Tm0EMNhGjssQp53qU0RWmhg_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686742309349:android:8da69065c7ba8ab63cc70c",
+        "android_client_info": {
+          "package_name": "com.example.testmacc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_0hWT33Tm0EMNhGjssQp53qU0RWmhg_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
